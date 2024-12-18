@@ -6,8 +6,9 @@ import "./globals.css";
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Light Saas Landing Page",
-  description: "Template created by Frontend Tribe",
+  title: "Saas Landing Page",
+  description:
+    "Create by Paulo Victor, a Saas Landing Page build with next, tailwind and framer motion.",
 };
 
 export default function RootLayout({
