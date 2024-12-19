@@ -14,6 +14,10 @@ const config: Config = {
       lg: "1200px",
     },
     extend: {
+      backgroundImage: {
+        "custom-gradient":
+          "linear-gradient(to right, #dd7ddf, #e1cd86, #bbcb92, #71c2ef, #3bffff, #dd7ddf)",
+      },
       container: {
         center: true,
         padding: {
