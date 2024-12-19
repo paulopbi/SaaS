@@ -21,11 +21,10 @@ export const Header = () => {
             <Image src={Logo} alt="Sass Logo" width={40} height={40} />
             <MenuIcon className="h-5 w-5 md:hidden" />
             <nav className="hidden md:flex gap-6 text-black/60 items-center">
-              <a href="#">About</a>
-              <a href="#">Features</a>
-              <a href="#">Costumers</a>
-              <a href="#">Update</a>
-              <a href="#">Help</a>
+              <a href="#about">About</a>
+              <a href="#pricing">Pricing</a>
+              <a href="#testimonials">Testimonials</a>
+              <a href="#contact">Help</a>
               <button className="bg-black text-white px-4 py-2 rounded-lg font-medium inline-flex items-center justify-center tracking-tight">
                 Get for free
               </button>

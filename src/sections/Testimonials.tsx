@@ -124,7 +124,7 @@ const TestimonialsColumn = (props: {
 
 export const Testimonials = () => {
   return (
-    <section className="bg-white py-0">
+    <section id="testimonials" className="bg-white py-0">
       <div className="container">
         <div className="section-heading">
           <div className="flex justify-center">
