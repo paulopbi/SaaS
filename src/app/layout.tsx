@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   title: "Saas Landing Page",
   description:
     "Create by Paulo Victor, a Saas Landing Page build with next, tailwind and framer motion.",
+  keywords: "Saas, Landing Page, Next.js, Tailwind CSS, Framer Motion",
 };
 
 export default function RootLayout({
