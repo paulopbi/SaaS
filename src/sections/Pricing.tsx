@@ -93,7 +93,7 @@ export const Pricing = () => {
                   </h3>
                   {popular && (
                     <div className="inline-flex text-sm px-4 py-1.5 rounded-xl border border-white/20">
-                      <span className="bg-custom-gradient text-transparent bg-clip-text font-medium">
+                      <span className="bg-[linear-gradient(to_right,#dd7ddf,#e1cd86,#bbcb92,#71c2ef,#3bffff,#dd7ddf)] text-transparent bg-clip-text font-medium">
                         Most Popular
                       </span>
                     </div>
