@@ -12,6 +12,9 @@
   </a> • 
   <a href="https://www.behance.net/paulopbi" target="_blank" rel="noreferrer">
   Behance
+  </a> • 
+  <a href="https://saas-sable-psi.vercel.app/" target="_blank" rel="noreferrer">
+  Live Demo
   </a> 
 </div>
 
@@ -20,6 +23,10 @@
 Welcome to the **SaaS Landing Page** project! 🚀 This is a modern, fully responsive landing page designed to showcase SaaS products in the best possible light.
 
 ![Demonstration](./src/assets/demo.gif)
+
+<p align="center">
+  <a href="https://saas-sable-psi.vercel.app/" target="_blank" rel="noreferrer">click here and see the live demo</a>
+</p>
 
 ## 🛠️ Technologies Used
 
@@ -50,13 +57,13 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone COLOCAR O LINK AQUI
+git clone https://github.com/paulopbi/SaaS.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd COLOCAR O NOME AQUI
+cd SaaS
 ```
 
 3. **Install dependencies:**
