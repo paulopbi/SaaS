@@ -43,9 +43,7 @@ export const Footer = () => {
           <SocialPin />
           <SocialYoutube />
         </div>
-        <p className="mt-6">
-          &copy; 2024 Paulo Victor, alguns direitos reservados.
-        </p>
+        <p className="mt-6">&copy; 2024 Paulo Victor, some rights reserved.</p>
       </div>
     </footer>
   );
